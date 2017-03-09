@@ -12,16 +12,14 @@ position(K),
 person(C,K),
 position_is_required(K).
 
-.
+player(costa).
+player(hazard).
+player(cahill).
+player(azpilecueta).
 
 position(striker).
 position(wingforward).
 position(secondstriker).
-
-player(costa).
-player(hazard).
-player(cahill).
-player(azpilecueta)
 
 person(costa,striker).
 person(hazard,wingforward).
